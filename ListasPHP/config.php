@@ -18,4 +18,3 @@ define("MYSQL_USER",        "user_php_test");// Usuário e senha locais
 define("MYSQL_PASS",        "B42i8eQI67DA"); // do servidor mysql
 define("MYSQL_CHARSET",     "utf8");
 
-
