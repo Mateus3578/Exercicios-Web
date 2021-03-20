@@ -14,8 +14,8 @@ define("BASE_URL",          "http://localhost/COLTEC/Listas/public/");
 define("MYSQL_SERVER",      "localhost");
 define("MYSQL_DATABASE",    "cadastros");
 define("MYSQL_DATABASE_2",  "cidadeestado");
-define("MYSQL_USER",        "user_php_test");
-define("MYSQL_PASS",        "B42i8eQI67DA");
+define("MYSQL_USER",        "user_php_test");// Usuário e senha locais
+define("MYSQL_PASS",        "B42i8eQI67DA"); // do servidor mysql
 define("MYSQL_CHARSET",     "utf8");
 
 
