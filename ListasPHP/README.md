@@ -1,5 +1,5 @@
 # Listas PHP
-# Alguns exercícios que fiz para treinar PHP
+Alguns exercícios que fiz para treinar PHP
 
 ## Inclui uso das seguintes ferramentas para facilitar a construção:
 - Composer: 
