@@ -1,0 +1,17 @@
+{
+    "name": "rootw/lista_2_php",
+    "description": "Testes",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Mateus3578",
+            "email": "76887902+Mateus3578@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "core\\" : "core/"
+        }
+    }
+}

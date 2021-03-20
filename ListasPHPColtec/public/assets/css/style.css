@@ -1,0 +1,21 @@
+/* ============================================================ */
+
+body {
+    color: white;
+    font-family: arial, Helvetica, sans-serif;
+    background-color: rgb(28, 31, 32);
+}
+
+.fixLink{
+    text-decoration: none;
+    color: white;
+    margin: 0px 5px;
+    display: inline-block;
+}
+
+.fixLink:hover{
+    text-decoration: underline;
+    color: white;
+}
+
+/* ============================================================ */
